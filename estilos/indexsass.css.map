@@ -1,0 +1,13 @@
+{
+    "version": 3,
+    "mappings": "AEAA,AAAA,CAAC,CAAA;EACG,MAAM,EAAE,CAAC;EACT,OAAO,EAAE,CAAC;EACV,UAAU,EAAE,UAAU;CACzB;;ACJD,AAAA,UAAU,CAAC;EACP,KAAK,EFDA,OAAO;EEEZ,WAAW,EAAE,oBAAoB;CAKpC;;AAJI,AAAD,sBAAa,CAAC;EACV,OAAO,EAAE,IAAI;EACb,qBAAqB,EAAE,cAAc;CAC5C;;ACND,AAAA,SAAS,CAAC;EACN,OAAO,EAAE,IAAI;EACb,cAAc,EAAE,MAAM;EACtB,eAAe,EAAE,aAAa;EAC9B,OAAO,EAAE,SAAS;CAQrB;;AAPA,AAAD,iBAAS,CAAC;EACN,KAAK,EAAE,IAAI;EACX,OAAO,EAAE,IAAI;EACb,cAAc,EAAE,MAAM;EACtB,eAAe,EAAE,aAAa;EAC9B,SAAS,EAAE,gBAAgB,CAAC,EAAE,CAAC,oCAAwC,CAAC,IAAI;CAC3E",
+    "sources": [
+        "indexsass.scss",
+        "parciales/_variables.scss",
+        "parciales/_reset.scss",
+        "parciales/_servicios.scss",
+        "parciales/_servicio.scss"
+    ],
+    "names": [],
+    "file": "indexsass.css"
+}

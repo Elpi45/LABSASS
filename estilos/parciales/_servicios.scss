@@ -1,0 +1,8 @@
+.servicios {
+    color: $sangre;
+    font-family: 'Roboto', sans-serif;
+    &__contenedor {
+        display: grid;
+        grid-template-columns: repeat(3, 1fr);
+}
+}
